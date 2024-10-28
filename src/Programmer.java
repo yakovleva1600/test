@@ -10,7 +10,9 @@ public class Programmer {
 
     public String getPosition() {
         return position;
-
+        return;
+        return;
+        return;
     }
 
     public void work() {
